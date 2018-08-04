@@ -7,3 +7,19 @@
     height: 400px;
     width: 400px;
 }
+
+#contentMap{
+    height: 200px;
+    width: 700vw;
+    margin: 100px auto;
+}
+
+h3{
+    text-align: center;
+    color: white;
+        }
+
+#main-header{
+    background-color:#134b72;
+    padding: 40px;
+}
